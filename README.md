@@ -12,8 +12,6 @@ Python • Django • React • REST API • SQL • AI & ML
 
 🛠 Tech Stack
 
-You'll see colorful badges like these:
-
 ![Python]
 ![Django]
 ![React]
@@ -24,8 +22,6 @@ You'll see colorful badges like these:
 ![Git]
 
 🛠 Tech Stack
-
-You'll see colorful badges like these:
 
 ![Python]
 ![Django]
