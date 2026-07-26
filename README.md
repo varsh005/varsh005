@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Varshini
 
-<!--
-**varsh005/varsh005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Full Stack Developer
+Python • Django • React • REST API • SQL • AI & ML
 
-Here are some ideas to get you started:
+👩‍💻 About Me
+🎓 B.Sc Computer Science (AI & Data Science)
+💻 Python Full Stack Developer
+🌱 Currently learning Advanced Django & React
+🚀 Love building AI and Web Applications
+📍 Coimbatore, Tamil Nadu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+
+You'll see colorful badges like these:
+
+![Python]
+![Django]
+![React]
+![HTML]
+![CSS]
+![JavaScript]
+![SQL]
+![Git]
+
+🛠 Tech Stack
+
+You'll see colorful badges like these:
+
+![Python]
+![Django]
+![React]
+![HTML]
+![CSS]
+![JavaScript]
+![SQL]
+![Git]
