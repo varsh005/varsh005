@@ -1,6 +1,6 @@
-                                                                👋 Hi, I'm Varshini
+<h1 align="center">👋 Hi, I'm Varshini</h1>
 
-                                    💻 Python Full Stack Developer • Python • Django • React • REST API • SQL • AI & ML
+<h3 align="center">Python Full Stack Developer | AI & ML Enthusiast</h3>
                                     
 
 ## 🛠 Tech Stack
