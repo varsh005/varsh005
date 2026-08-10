@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Varshini</h1>
 
 <h3 align="center">
-Python Full Stack Developer • Django • React • AI & ML Enthusiast
+Developer • Building Web Applications • AI & ML Enthusiast ✨
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications and AI-powered solutions using Python, Django, React, and Machine Learning.
+Passionate about building modern web applications and exploring AI-powered solutions using Python, Django, React, and Machine Learning.
 </p>
 
 ---
@@ -13,10 +13,10 @@ Passionate about building scalable web applications and AI-powered solutions usi
 ## 🚀 About Me
 
 - 🎓 Computer Science Graduate specializing in AI & Data Science
-- 💻 Passionate about Full Stack Web Development
+- 💻 Passionate about web development and problem solving
 - 🌱 Currently learning Advanced Django, React & Data Structures
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🚀 Building real-world full-stack applications
+- 🚀 Building real-world web applications and AI-based projects
 - 📫 Email: **varshinisubramani005@gmail.com**
 
 ---
